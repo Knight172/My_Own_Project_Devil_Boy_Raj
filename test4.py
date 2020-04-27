@@ -37,3 +37,58 @@ print(i3.Name)
 print(i3._nill__r3)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#2nd part code
+#Second The public, protect and Privet 
+
+
+class raj:
+    # a = 10
+    # _a = 20
+    # __a = 30
+
+    def __init__(self,Name,Roll,Address):
+        self.a = Name
+        self._b = Roll
+        self.__c = Address
+
+class ridita(raj):
+    pass
+
+# abc = ridita()
+# print(abc._a)
+# print()
+
+ra = raj("Raj",145,"Dhaka")
+print(ra.a)
+print(ra._b)
+print(ra._raj__c)
+
+
+
+
