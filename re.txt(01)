@@ -21,3 +21,6 @@ Special Sequences
 \w Returns a match where the string contains any word characters (characters from a to Z, digits from 0-9, and the underscore _ character)
 \W Returns a match where the string DOES NOT contain any word characters
 \Z Returns a match if the specified characters are at the end of the string
+
+
+# findall, search, split, sub, finditer
