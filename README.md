@@ -1,9 +1,11 @@
 
 
 # Example
-FBBrute is a Facebook brute force tool, launches an attack by guessing the target password with a set of wordlist provided.  
-so this is the same as you try to login to someone's account while guessing the password, if the password you are trying is wrong, you will think of another password that might be used by the target to login to the account but this way might be a bit longer, but with FBBrute this will make it easier.  
-you only need to create one file with a collection of passwords then enter the username, email or ID of the target then press start crack...  
+
+![Version](https://img.shields.io/badge/version-1.0.2-red) ![Python](https://img.shields.io/badge/language-Python-blue)
+
+This is Kali Project My Code I upload This Project Because My all Code Upload This Account. When I Forget My Python code I see the code And I start My Python Project It is My Public Account. So If You Need Python Code Please Visited My Github Account. I hope This Code Help Your Project
+Thank You
 
 ### Installation and Using Example
 ```bash
@@ -12,9 +14,13 @@ $ git clone https://github.com/Knight172/My_Own_Project_Devil_Boy_Raj
 $ cd My_Own_Project_Devil_Boy_Ra
 $ python test10.py
 ```
+## Warning
+I did not create this script to support any form of illegal activity or cyber crime. The use of this script is entirely yours. If you commit an illegal activity using this script, you are responsible for yourself. Use this script with your own risk and responsibility.
 
 ### Contact me
-Line      : dtl.lily  
-Telegram  : @dtlily  
-Facebook  : cgi.izo  
-Instagram : @dtlily  
+```
+# Email     : rajrahman123456789@gmail.com  
+# Whatsapp  : 338425411 
+# Facebook  : www.facebook.com/rajrahman.15 
+# Instagram : www.instagram.com/rajrahman.15
+```
