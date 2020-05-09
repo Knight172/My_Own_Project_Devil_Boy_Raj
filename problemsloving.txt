@@ -17,3 +17,11 @@
 # A = (n*R*R) 
 # print("A=",end="")
 # print(format(A,'.4f'))
+
+
+#Problem 3 slove 
+
+#A = int(input())
+#B = int(input())
+#SOMA = A+B 
+#print("SOMA =",SOMA)
