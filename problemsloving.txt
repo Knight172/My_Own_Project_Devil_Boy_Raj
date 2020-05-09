@@ -27,6 +27,8 @@
 #print("SOMA =",SOMA)
 
 
+
+
 #Problem 4 slove
 
 # A = int(input())
@@ -43,3 +45,25 @@
 # C = int(input())
 # D = int(input())
 # print("DIFERENCA =",A*B-C*D)
+
+
+# #Problem 8 slove code = 1008
+
+# A = int(input())
+# B = int(input())
+# C = float(input())
+
+# print("NUMBER =",A)
+# print("SALARY = U$",end=" ")
+# print(format(B*C,'.2f'))
+
+
+
+#Problem 11 slove code = 1011
+
+#Note Start
+#Math Sotro#(4/3) * pi * R3
+#Note Finish
+# R3 = int(input())
+# print("VOLUME =",end=" ")
+# print(format(4/3 * 3.14159 * R3*R3*R3,'.3f'))
