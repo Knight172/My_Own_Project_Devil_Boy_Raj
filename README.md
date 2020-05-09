@@ -1,6 +1,6 @@
 
 
-# Example
+# Python-Project
 
 ![Version](https://img.shields.io/badge/version-1.0.2-red) ![Python](https://img.shields.io/badge/language-Python-blue)
 
@@ -14,6 +14,10 @@ $ git clone https://github.com/Knight172/My_Own_Project_Devil_Boy_Raj
 $ cd My_Own_Project_Devil_Boy_Ra
 $ python test10.py
 ```
+## Requerment
+  - Code-Editor
+  - Python 3.7
+
 ## Warning
 I did not create this script to support any form of illegal activity or cyber crime. The use of this script is entirely yours. If you commit an illegal activity using this script, you are responsible for yourself. Use this script with your own risk and responsibility.
 
