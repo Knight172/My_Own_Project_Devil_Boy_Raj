@@ -1,0 +1,19 @@
+#site link : www.urionlinejudge.com
+
+
+#problem 1 slove
+
+# A = int(input())
+# B = int(input())
+# X = A+B 
+# print("X =",X)
+
+
+
+#Problem 2 slove 
+
+# R = float(input())
+# n = 3.14159
+# A = (n*R*R) 
+# print("A=",end="")
+# print(format(A,'.4f'))
