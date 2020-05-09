@@ -25,3 +25,12 @@
 #B = int(input())
 #SOMA = A+B 
 #print("SOMA =",SOMA)
+
+
+#Problem 4 slove
+
+# A = int(input())
+# B = int(input())
+# PROD = (A*B) 
+# print("PROD =",PROD)
+
