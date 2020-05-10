@@ -69,6 +69,19 @@
 # print(format(4/3 * 3.14159 * R3*R3*R3,'.3f'))
 
 
+#problem 12 sloving in code = 1012
+
+# raj = input().split()
+# A = float(raj[0])
+# B = float(raj[1])
+# C = float(raj[2])
+# print("TRIANGULO:",(format(0.5*A*C,".3f")))
+# print("CIRCULO:",(format(C*C*3.14159,".3f")))
+# print("TRAPEZIO:",(format((A+B)/2*C,".3f")))
+# print("QUADRADO:",(format(B*B,".3f")))
+# print("RETANGULO:",(format(A*B,".3f")))
+
+
 #Problem 13 slove code = 1013
 
 # linha = input().split()
