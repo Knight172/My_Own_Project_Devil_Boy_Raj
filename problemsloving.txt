@@ -67,3 +67,17 @@
 # R3 = int(input())
 # print("VOLUME =",end=" ")
 # print(format(4/3 * 3.14159 * R3*R3*R3,'.3f'))
+
+
+#Problem 13 slove code = 1013
+
+# linha = input().split()
+# a = int(linha[0])
+# b = int(linha[1])
+# s = int(linha[2])
+
+# param = max(a,b,s)
+# print(param,"eh o maior")
+
+
+
