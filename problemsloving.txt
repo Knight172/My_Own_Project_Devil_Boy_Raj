@@ -81,3 +81,11 @@
 
 
 
+#Problem 14 slove code = 1014
+
+# X = int(input())
+# Y = float(input())
+# print(format(X/Y,'.3f'),"km/l")
+
+
+
