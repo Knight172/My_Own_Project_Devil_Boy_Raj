@@ -1,0 +1,11 @@
+#Python GUI Part: 1 
+
+from tkinter import *
+raj_rahman_root = Tk()
+#wight x wight
+raj_rahman_root.geometry("700x500")
+#minsize size wight,hight 
+raj_rahman_root.minsize(100,200)
+#maxsize size wight,height
+raj_rahman_root.maxsize(1200,988)
+raj_rahman_root.mainloop()
