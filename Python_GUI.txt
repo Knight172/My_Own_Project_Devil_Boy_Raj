@@ -8,4 +8,7 @@ raj_rahman_root.geometry("700x500")
 raj_rahman_root.minsize(100,200)
 #maxsize size wight,height
 raj_rahman_root.maxsize(1200,988)
+#it is a label 
+ridita = Label(text="This is My Notepad")
+ridita.pack()
 raj_rahman_root.mainloop()
